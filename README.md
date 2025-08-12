@@ -12,7 +12,7 @@ Follow these steps to run the bot in Google Colab:
 
 ### 1. Open a New Colab Notebook
 
-Go to: [https://colab.research.google.com](https://colab.research.google.com)
+Go to: [COLLAB NOTEBOOK](https://colab.research.google.com/drive/1C_2PbVw-gh7ebD4CJOA_YZd1HNJGPbi5?usp=sharing)
 
 ### 2. Paste the Full Setup Code
 
